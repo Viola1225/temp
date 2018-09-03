@@ -1,0 +1,13 @@
+name: discount_v2
+title: discount_v2
+username:
+account: viola-251296
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 417490
+bundleId: 1566498
+url: https://viola-251296.shinyapps.io/discount_v2/
+when: 1535947140.10173
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data0830.csv
